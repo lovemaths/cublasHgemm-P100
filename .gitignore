@@ -1,3 +1,4 @@
 gemm
+hgemm
 *.recv
 *.send
